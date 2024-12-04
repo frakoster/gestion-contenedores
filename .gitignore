@@ -1,0 +1,11 @@
+# Ignorar carpetas y archivos de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Ignorar bases de datos locales
+*.db
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
